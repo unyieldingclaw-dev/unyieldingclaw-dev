@@ -1,6 +1,21 @@
-Eric Nolan | UnyieldingClaw
+<p align="center">
+  <a href="https://unyieldingclaw.com">
+    <img src="https://raw.githubusercontent.com/unyieldingclaw-dev/unyieldingclaw.com/main/public/brand-mark.svg" width="96" alt="Unyielding Claw sawblade mark">
+  </a>
+</p>
 
-Technical Product Manager | AI Product Strategy & Governance | Agentic Automation | Release Engineering | Developer Productivity
+<h1 align="center">Eric Nolan | Unyielding Claw</h1>
+
+<p align="center">
+  <strong>Product leadership grounded in engineering depth.</strong><br>
+  Technical Product Management · AI Engineering &amp; Governance · Developer Systems
+</p>
+
+<p align="center">
+  <a href="https://unyieldingclaw.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ericnolan1/">LinkedIn</a> ·
+  <a href="https://unyieldingclaw.com/woodworking/">Nolan's Workshop</a>
+</p>
 
 I build governed AI workflows and practical software products that turn recurring operational friction into tools people can trust and use.
 
