@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unyieldingclaw.com">
-    <img src="https://raw.githubusercontent.com/unyieldingclaw-dev/unyieldingclaw.com/main/public/brand-mark.svg" width="96" alt="Unyielding Claw sawblade mark">
+    <img src="https://raw.githubusercontent.com/unyieldingclaw-dev/unyieldingclaw.com/main/public/social-card-unyielding-claw-wide.png" width="850" alt="Unyielding Claw — metallic sawblade emblem on a navy circuit background">
   </a>
 </p>
 
